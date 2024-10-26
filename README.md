@@ -24,4 +24,4 @@ The Tableau dashboard created for this project provides insights into the Reddit
 2. **Score by Title of the Post** - A bar chart showing the scores (upvotes) for each post. Posts favoring single-player games over multiplayer tend to have higher engagement, indicating a strong preference among commenters for single-player experiences.
 
 ### Dashboard
-![Reddit posts Analysis Dashboard](E:\Data Analytics project\Data scraping and visualization\Reddit-Data-Scraping\Reddit posts Analysis Dashboard.png)
+![Dashboard Image](Reddit posts Analysis Dashboard.png)
