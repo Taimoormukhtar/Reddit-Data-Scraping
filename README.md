@@ -25,7 +25,3 @@ The Tableau dashboard created for this project provides insights into the Reddit
 
 ### Dashboard Snapshot
 ![Reddit posts Analysis Dashboard](https://github.com/user-attachments/assets/67219260-a288-4de9-9589-f1aad735d364)
-
-### Dashboard Access
-
-To view the interactive Tableau dashboard, click [here]
